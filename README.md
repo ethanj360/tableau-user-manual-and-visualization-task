@@ -7,6 +7,9 @@ This project walks users through the fundamentals of Tableau, from understanding
 
 The project concludes with a hands-on task that guides users through creating their first Tableau chart using a Netflix movie dataset.
 
+The final project can be viewed in the file: [Tableau User Manual Creation and Task (PDF)](Tableau%20User%20Manual%20Creation%20and%20Task.pdf)
+
+
 ## Project Objectives
 - Introduce Tableau as a data visualization tool
 - Demonstrate how large datasets can be transformed into easy-to-read visuals
