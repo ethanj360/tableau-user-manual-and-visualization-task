@@ -72,6 +72,12 @@ This task demonstrates how Tableau automatically aggregates data and allows user
 - Instructions are written primarily for beginner Tableau users
 - Dataset sources are publicly available through Kaggle
 
-## Author
-Ethan Johnson  
-Business Analytics and Data Visualization
+## What I Learned
+
+Through this project, I gained hands-on experience using Tableau as a data visualization tool and learned how to translate raw datasets into clear, readable visuals. I developed a stronger understanding of Tableau’s interface, including how dimensions and measures work together to generate different types of charts.
+
+I learned how to import and explore CSV datasets, identify relevant fields, and structure data using rows, columns, and marks to create meaningful visualizations. This project reinforced how Tableau automatically aggregates data and how those aggregations impact the insights being displayed.
+
+Creating a step-by-step user manual helped me improve my ability to explain technical concepts in a clear and beginner-friendly way. I learned how to document workflows, break down complex steps, and design instructional content that guides users through both the technical process and the reasoning behind each action.
+
+Overall, this project strengthened my data visualization fundamentals, technical communication skills, and confidence working with Tableau to analyze and present data effectively.
