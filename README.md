@@ -1,21 +1,17 @@
 # Tableau User Manual and Data Visualization Task
 
-This project is a beginner-friendly Tableau user manual and guided visualization task designed to introduce core Tableau concepts, interface navigation, and hands-on chart creation using real-world data.
+This project is a beginner-friendly Tableau user manual and guided data visualization task designed to introduce core Tableau concepts, interface navigation, and hands-on chart creation using real-world movie data.
 
 ## Overview
-The presentation walks users through:
-- What Tableau is and why it is used in data analytics
-- How to navigate the Tableau interface
-- How to import datasets
-- How to build, customize, and export visualizations
+This project walks users through the fundamentals of Tableau, from understanding the platform to building and exporting a complete visualization. It is designed for beginners who want a clear, step-by-step introduction to data visualization using Tableau Public.
 
-The project concludes with a hands-on task that guides users through creating their first Tableau chart using movie data.
+The project concludes with a hands-on task that guides users through creating their first Tableau chart using a Netflix movie dataset.
 
 ## Project Objectives
 - Introduce Tableau as a data visualization tool
-- Demonstrate how large datasets can be turned into readable visuals
+- Demonstrate how large datasets can be transformed into easy-to-read visuals
 - Teach users how to create charts step by step
-- Provide a structured learning task using real data
+- Provide a structured learning task using real-world data
 
 ## Tools Used
 - Tableau Public (Desktop Public Edition)
@@ -30,22 +26,52 @@ The visualization task uses a publicly available Kaggle dataset containing Netfl
 - Genres
 - Critic scores
 
-Users learn how to import, explore, and visualize this dataset inside Tableau.
+Users learn how to import, explore, and visualize this dataset within Tableau.
 
 ## What This Project Covers
 - Tableau overview and use cases
 - Tableau interface walkthrough
-- Data importing and field explanations
+- Importing and preparing CSV data
+- Understanding dimensions and measures
 - Chart creation using rows and columns
-- Use of dimensions and measures
 - Filtering and grouping data
 - Exporting and sharing Tableau visualizations
 
 ## Final Task
 Users are guided through creating a line chart titled:
 
-**“Movie Scores by Release Year and Genre”**
+**Movie Scores by Release Year and Genre**
 
-The task demonstrates how Tableau automatically aggregates data and allows users to visually compare trends across genres over time.
+This task demonstrates how Tableau automatically aggregates data and allows users to visually compare trends across genres over time.
 
-## Repository Contents
+
+## Visual Preview
+
+**Why use Tableau**
+![Why use Tableau](why-use-tableau-slide.png)
+
+**Tableau interface and concepts**
+![Tableau explanation](tableau-explanation-slide.png)
+
+**User manual walkthrough**
+![User manual](user-manual-netflix.png)
+
+**Visualization instructions**
+![Visualization instructions](visualization-instructions-netflix.png)
+
+**Final chart output**
+![Final chart](final-chart-netflix.png)
+
+## How to Use This Repository
+1. Review the images to understand Tableau concepts and workflow
+2. Follow the visualization instructions to recreate the chart in Tableau Public
+3. Apply the same steps to other datasets to build additional visualizations
+
+## Notes
+- This project was created for educational and portfolio purposes
+- Instructions are written primarily for beginner Tableau users
+- Dataset sources are publicly available through Kaggle
+
+## Author
+Ethan Johnson  
+Business Analytics and Data Visualization
