@@ -1,7 +1,3 @@
-# tableau-user-manual-and-visualization-task
-A beginner-friendly Tableau user manual and hands-on data visualization project that walks through importing data, building charts, and exporting insights using real movie dataset examples.
-
-
 # Tableau User Manual and Data Visualization Task
 
 This project is a beginner-friendly Tableau user manual and guided visualization task designed to introduce core Tableau concepts, interface navigation, and hands-on chart creation using real-world data.
