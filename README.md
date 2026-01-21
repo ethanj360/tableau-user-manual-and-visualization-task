@@ -57,10 +57,10 @@ This task demonstrates how Tableau automatically aggregates data and allows user
 ![Tableau explanation](images-from-presentation/tableau-explanation-slide.png)
 
 **User manual walkthrough**
-![User manual](images-from-presentation/user-manual-netflix.png)
+![User manual](images-from-presentation/user-manual-slide-netflix.png)
 
 **Visualization instructions**
-![Visualization instructions](images-from-presentation/visualization-instructions-netflix.png)
+![Visualization instructions](images-from-presentation/visualization-instructions-slide-netflix.png)
 
 **Final chart output**
 ![Final chart](images-from-presentation/final-chart-netflix.png)
