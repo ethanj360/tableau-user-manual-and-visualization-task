@@ -51,19 +51,19 @@ This task demonstrates how Tableau automatically aggregates data and allows user
 ## Visual Preview
 
 **Why use Tableau**
-![Why use Tableau](why-use-tableau-slide.png)
+![Why use Tableau](images-from-presentation/why-use-tableau-slide.png)
 
 **Tableau interface and concepts**
-![Tableau explanation](tableau-explanation-slide.png)
+![Tableau explanation](images-from-presentation/tableau-explanation-slide.png)
 
 **User manual walkthrough**
-![User manual](user-manual-netflix.png)
+![User manual](images-from-presentation/user-manual-netflix.png)
 
 **Visualization instructions**
-![Visualization instructions](visualization-instructions-netflix.png)
+![Visualization instructions](images-from-presentation/visualization-instructions-netflix.png)
 
 **Final chart output**
-![Final chart](final-chart-netflix.png)
+![Final chart](images-from-presentation/final-chart-netflix.png)
 
 ## How to Use This Repository
 1. Review the images to understand Tableau concepts and workflow
